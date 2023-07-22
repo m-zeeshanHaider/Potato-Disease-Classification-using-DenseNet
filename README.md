@@ -13,6 +13,6 @@ A dense convolutional network (DenseNet) model that classifies images of potato 
 # Model Predictions
 ![predictions](https://github.com/m-zeeshanHaider/Potato-Disease-Classification-using-DenseNet/assets/98903465/c602555f-9d34-49ff-944b-edec2920d11b)
 
-# React Website
+# React Web App
 ![front-end-1](https://github.com/m-zeeshanHaider/Potato-Disease-Classification-using-DenseNet/assets/98903465/6e335703-1fe2-4beb-ac51-33698500be62)
 ![front-end-2](https://github.com/m-zeeshanHaider/Potato-Disease-Classification-using-DenseNet/assets/98903465/7e82489a-c948-47a5-af9e-0423ca338972)
